@@ -1,4 +1,4 @@
-FROM python:3.5
+FROM python:3.6
 LABEL maintainer="Joe Cridge <joe.cridge@me.com>" version="0.1.0"
 
 # Install geospatial libraries.
